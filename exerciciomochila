@@ -1,0 +1,23 @@
+VETOR E DIMINUIÇÃO DE PROBLEMAS.
+ESTRUTURA DE DADOS 
+MATRIZ, VETORES, LISTA DE ADJACENCIAS,
+
+
+QUANTIDADE DE ITENS = [3ITENS]
+
+PESO = [5KG];[1KG];[3KG]
+
+MOCHILA PESO = [8KG];
+
+   [0][1][2][3][4][5][6][7][8]
+[0][0][0][0][0][0][0][0][0][0]
+[1][0][0][0][0][0][1][][]
+[2][0][][][][][][][]
+[3][0][][][][][][][]
+[4][0][][][][][][][]
+
+
+
+
+
+
